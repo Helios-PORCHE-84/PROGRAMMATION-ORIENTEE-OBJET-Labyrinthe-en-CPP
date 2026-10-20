@@ -1,11 +1,11 @@
 # PROGRAMMATION ORIENTEE OBJET Labyrinthe en C++.
 
-Contexte & Objectif : 
+# Contexte & Objectif : 
 
 Projet individuel (L1, UE Programmation Orientée Objet / Mini-projet). Création d'un jeu de labyrinthe en mode console avec génération aléatoire, déplacement manuel et résolution automatique. 
 
 
-Détails Techniques & Concepts Clés :
+# Détails Techniques & Concepts Clés :
 
 Affichage : Utilisation de la bibliothèque <ncurses.h> pour le rendu graphique en mode texte et la capture des entrées clavier.
 
@@ -14,7 +14,7 @@ Structures de données : Tableaux dynamiques pour la grille (Case), et structure
 Algorithmique : Parcours en profondeur (DFS) pour la génération de labyrinthes parfaits et la recherche de chemin. 
 
 
-Cheminement de réalisation (Synopsis) :
+# Cheminement de réalisation (Synopsis) :
 
 Initialisation et I/O : Création des fonctions pour lire un labyrinthe depuis un fichier texte (format matriciel avec portes W, N, S, E) et l'écrire dans un fichier.
 

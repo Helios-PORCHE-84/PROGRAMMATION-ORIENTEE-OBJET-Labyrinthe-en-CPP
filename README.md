@@ -1,4 +1,4 @@
-# PROGRAMMATION ORIENTEE OBJET Labyrinthe en C++
+# PROGRAMMATION ORIENTEE OBJET Labyrinthe en C++.
 
 Contexte & Objectif : 
 
